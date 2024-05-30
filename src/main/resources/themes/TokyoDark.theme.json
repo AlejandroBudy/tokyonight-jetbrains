@@ -4,9 +4,9 @@
   "author": "Junk F. Actory <2998269+junkfactory@users.noreply.github.com>",
   "editorScheme": "/themes/TokyoDark.xml",
   "colors": {
-    "bgHi": "#161720",
-    "bg": "#1a1b26",
-    "terminalBlack": "#414868",
+    "bgHi": "#001729",
+    "bg": "#001729",
+    "terminalBlack": "#001729",
     "fg": "#c0caf5",
     "fgDark": "#a9b1d6",
     "fgGutter": "#3b4261",
@@ -32,7 +32,7 @@
     "teal": "#1abc9c",
     "red": "#f7768e",
     "red1": "#db4b4b",
-    "hoverBackground": "#232433",
+    "hoverBackground": "#023754",
     "selectionInactiveBackground": "#414868",
     "separatorColor": "#545c7e"
   },
