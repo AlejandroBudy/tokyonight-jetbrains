@@ -2,9 +2,9 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="73daca"></option>
     <option name="ANNOTATIONS_COLOR" value="c0caf5"></option>
-    <option name="CARET_COLOR" value="c0caf5"></option>
-    <option name="CARET_ROW_COLOR" value="232433"></option>
-    <option name="CONSOLE_BACKGROUND_KEY" value="161720"></option>
+    <option name="CARET_COLOR" value="7aa2f7"></option>
+    <option name="CARET_ROW_COLOR" value="013754"></option>
+    <option name="CONSOLE_BACKGROUND_KEY" value="001729"></option>
     <option name="DELETED_LINES_COLOR" value="f7768e"></option>
     <option name="DIAGRAM_ANNOTATION_EDGE" value="e0af68"></option>
     <option name="DIAGRAM_DEFAULT_EDGE" value="c0caf5"></option>
@@ -65,7 +65,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="232433"></option>
     <option name="VCS_ANNOTATIONS_COLOR_5" value="232433"></option>
     <option name="VISUAL_INDENT_GUIDE" value="2c2e40"></option>
-    <option name="WHITESPACES" value="2c2e40"></option>
+    <option name="WHITESPACES" value="EEF2F9"></option>
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e0af68"></option>
   </colors>
   <attributes>
@@ -1160,7 +1160,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e0af68"></option>
+        <option name="FOREGROUND" value="00F9BE"></option>
       </value>
     </option>
     <option name="TS.MODULE_NAME">

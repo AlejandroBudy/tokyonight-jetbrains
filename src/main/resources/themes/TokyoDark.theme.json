@@ -33,7 +33,7 @@
     "red": "#f7768e",
     "red1": "#db4b4b",
     "hoverBackground": "#023754",
-    "selectionInactiveBackground": "#414868",
+    "selectionInactiveBackground": "#023754",
     "separatorColor": "#545c7e"
   },
   "ui": {
@@ -47,7 +47,7 @@
       "infoForeground": "fgDark",
       "selectionForeground": "fg",
       "selectionInactiveForeground": "fg",
-      "selectionBackground": "#304285",
+      "selectionBackground": "#023754",
       "selectionInactiveBackground": "selectionInactiveBackground",
       "inactiveBackground": "bgHi",
       "disabledBackground": "bgHi",
